@@ -1,4 +1,4 @@
-# C19DK
+# COVID-19 DK
 COVID-19 models used by the SSI modelling group. Each model (component) is in their own folder.
 
 ## C19REST030
