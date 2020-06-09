@@ -565,3 +565,36 @@ beta <- listEffCont
 
 save(beta, scenarier, file="beta_til_Kaare_20200517.RData")
 
+
+################################# #
+## Plot til teksnisk appendiks ####
+
+library(viridis)
+
+png(filename = "Counts_per_type.png", width=1600, height=1600, pointsize = 30)
+par(mfrow=c(2,2), mar=c(3,3,2,1), mgp=c(1.8,0.7,0))
+zmax <- 1
+for (i in 1:4){
+  tmp<-counts4[[i]]/rep(prop, each=length(prop))
+  print(range(tmp))
+  image(ageMin,ageMin,tmp , main=names(counts4)[i], zlim=c(0,zmax), xlab="Fra aldersgruppe", ylab=" Til aldersgruppe", col = viridis(20,direction = -1))
+  box()
+}
+dev.off()
+
+png(filename = "Contacts_fase.png", width=1600, height=1600, pointsize = 30)
+par(mfrow=c(2,2), mar=c(3,3,2,1), mgp=c(1.8,0.7,0))
+zmax <- 0.1
+sce <- c("basis","ned","fase1", "fase3")
+sceNames <- c("Normale kontakter", "Nedlukket", "Efter første genåbning", "Efter udvidet anden genåbning")
+for (red in 1:4){
+  EffCont <- matrix(0, nrow=length(prop), ncol=length(prop))
+  for (i in 1:4){
+    EffCont <- EffCont + counts4[[i]]*scenarier[[ sce[red] ]][[i]]
+  }
+  print(range(EffCont))
+  image(ageMin,ageMin,EffCont , main=sceNames[red], zlim=c(0,zmax), xlab="Fra aldersgruppe", ylab=" Til aldersgruppe", col = viridis(20,direction = -1))
+  box()
+ 
+}
+dev.off()

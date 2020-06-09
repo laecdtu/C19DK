@@ -1,0 +1,921 @@
+﻿Date;Event;AgeGroup;RegionName;New;Cumulative;Instant
+2020-02-15;Hospitalised;0-59;Nordjylland; 0;  0;  0
+2020-02-15;Hospitalised;60+;Nordjylland; 0;  0;  0
+2020-02-15;Hospitalised;0-59;Midtjylland; 0;  0;  0
+2020-02-15;Hospitalised;60+;Midtjylland; 0;  0;  0
+2020-02-15;Hospitalised;0-59;Syddanmark; 0;  0;  0
+2020-02-15;Hospitalised;60+;Syddanmark; 0;  0;  0
+2020-02-15;Hospitalised;0-59;Hovedstaden; 0;  0;  0
+2020-02-15;Hospitalised;60+;Hovedstaden; 0;  0;  0
+2020-02-15;Hospitalised;0-59;Zealand; 0;  0;  0
+2020-02-15;Hospitalised;60+;Zealand; 0;  0;  0
+2020-02-16;Hospitalised;0-59;Nordjylland; 0;  0;  0
+2020-02-16;Hospitalised;60+;Nordjylland; 0;  0;  0
+2020-02-16;Hospitalised;0-59;Midtjylland; 0;  0;  0
+2020-02-16;Hospitalised;60+;Midtjylland; 0;  0;  0
+2020-02-16;Hospitalised;0-59;Syddanmark; 0;  0;  0
+2020-02-16;Hospitalised;60+;Syddanmark; 0;  0;  0
+2020-02-16;Hospitalised;0-59;Hovedstaden; 0;  0;  0
+2020-02-16;Hospitalised;60+;Hovedstaden; 0;  0;  0
+2020-02-16;Hospitalised;0-59;Zealand; 0;  0;  0
+2020-02-16;Hospitalised;60+;Zealand; 0;  0;  0
+2020-02-17;Hospitalised;0-59;Nordjylland; 0;  0;  0
+2020-02-17;Hospitalised;60+;Nordjylland; 0;  0;  0
+2020-02-17;Hospitalised;0-59;Midtjylland; 0;  0;  0
+2020-02-17;Hospitalised;60+;Midtjylland; 0;  0;  0
+2020-02-17;Hospitalised;0-59;Syddanmark; 0;  0;  0
+2020-02-17;Hospitalised;60+;Syddanmark; 0;  0;  0
+2020-02-17;Hospitalised;0-59;Hovedstaden; 0;  0;  0
+2020-02-17;Hospitalised;60+;Hovedstaden; 0;  0;  0
+2020-02-17;Hospitalised;0-59;Zealand; 0;  0;  0
+2020-02-17;Hospitalised;60+;Zealand; 0;  0;  0
+2020-02-18;Hospitalised;0-59;Nordjylland; 0;  0;  0
+2020-02-18;Hospitalised;60+;Nordjylland; 0;  0;  0
+2020-02-18;Hospitalised;0-59;Midtjylland; 0;  0;  0
+2020-02-18;Hospitalised;60+;Midtjylland; 0;  0;  0
+2020-02-18;Hospitalised;0-59;Syddanmark; 0;  0;  0
+2020-02-18;Hospitalised;60+;Syddanmark; 0;  0;  0
+2020-02-18;Hospitalised;0-59;Hovedstaden; 0;  0;  0
+2020-02-18;Hospitalised;60+;Hovedstaden; 0;  0;  0
+2020-02-18;Hospitalised;0-59;Zealand; 0;  0;  0
+2020-02-18;Hospitalised;60+;Zealand; 0;  0;  0
+2020-02-19;Hospitalised;0-59;Nordjylland; 0;  0;  0
+2020-02-19;Hospitalised;60+;Nordjylland; 0;  0;  0
+2020-02-19;Hospitalised;0-59;Midtjylland; 0;  0;  0
+2020-02-19;Hospitalised;60+;Midtjylland; 0;  0;  0
+2020-02-19;Hospitalised;0-59;Syddanmark; 0;  0;  0
+2020-02-19;Hospitalised;60+;Syddanmark; 0;  0;  0
+2020-02-19;Hospitalised;0-59;Hovedstaden; 0;  0;  0
+2020-02-19;Hospitalised;60+;Hovedstaden; 0;  0;  0
+2020-02-19;Hospitalised;0-59;Zealand; 0;  0;  0
+2020-02-19;Hospitalised;60+;Zealand; 0;  0;  0
+2020-02-20;Hospitalised;0-59;Nordjylland; 0;  0;  0
+2020-02-20;Hospitalised;60+;Nordjylland; 0;  0;  0
+2020-02-20;Hospitalised;0-59;Midtjylland; 0;  0;  0
+2020-02-20;Hospitalised;60+;Midtjylland; 0;  0;  0
+2020-02-20;Hospitalised;0-59;Syddanmark; 0;  0;  0
+2020-02-20;Hospitalised;60+;Syddanmark; 0;  0;  0
+2020-02-20;Hospitalised;0-59;Hovedstaden; 0;  0;  0
+2020-02-20;Hospitalised;60+;Hovedstaden; 0;  0;  0
+2020-02-20;Hospitalised;0-59;Zealand; 0;  0;  0
+2020-02-20;Hospitalised;60+;Zealand; 0;  0;  0
+2020-02-21;Hospitalised;0-59;Nordjylland; 0;  0;  0
+2020-02-21;Hospitalised;60+;Nordjylland; 0;  0;  0
+2020-02-21;Hospitalised;0-59;Midtjylland; 0;  0;  0
+2020-02-21;Hospitalised;60+;Midtjylland; 0;  0;  0
+2020-02-21;Hospitalised;0-59;Syddanmark; 0;  0;  0
+2020-02-21;Hospitalised;60+;Syddanmark; 0;  0;  0
+2020-02-21;Hospitalised;0-59;Hovedstaden; 0;  0;  0
+2020-02-21;Hospitalised;60+;Hovedstaden; 0;  0;  0
+2020-02-21;Hospitalised;0-59;Zealand; 0;  0;  0
+2020-02-21;Hospitalised;60+;Zealand; 0;  0;  0
+2020-02-22;Hospitalised;0-59;Nordjylland; 0;  0;  0
+2020-02-22;Hospitalised;60+;Nordjylland; 0;  0;  0
+2020-02-22;Hospitalised;0-59;Midtjylland; 0;  0;  0
+2020-02-22;Hospitalised;60+;Midtjylland; 0;  0;  0
+2020-02-22;Hospitalised;0-59;Syddanmark; 0;  0;  0
+2020-02-22;Hospitalised;60+;Syddanmark; 0;  0;  0
+2020-02-22;Hospitalised;0-59;Hovedstaden; 0;  0;  0
+2020-02-22;Hospitalised;60+;Hovedstaden; 0;  0;  0
+2020-02-22;Hospitalised;0-59;Zealand; 0;  0;  0
+2020-02-22;Hospitalised;60+;Zealand; 0;  0;  0
+2020-02-23;Hospitalised;0-59;Nordjylland; 0;  0;  0
+2020-02-23;Hospitalised;60+;Nordjylland; 0;  0;  0
+2020-02-23;Hospitalised;0-59;Midtjylland; 0;  0;  0
+2020-02-23;Hospitalised;60+;Midtjylland; 0;  0;  0
+2020-02-23;Hospitalised;0-59;Syddanmark; 0;  0;  0
+2020-02-23;Hospitalised;60+;Syddanmark; 0;  0;  0
+2020-02-23;Hospitalised;0-59;Hovedstaden; 0;  0;  0
+2020-02-23;Hospitalised;60+;Hovedstaden; 0;  0;  0
+2020-02-23;Hospitalised;0-59;Zealand; 0;  0;  0
+2020-02-23;Hospitalised;60+;Zealand; 0;  0;  0
+2020-02-24;Hospitalised;0-59;Nordjylland; 0;  0;  0
+2020-02-24;Hospitalised;60+;Nordjylland; 0;  0;  0
+2020-02-24;Hospitalised;0-59;Midtjylland; 0;  0;  0
+2020-02-24;Hospitalised;60+;Midtjylland; 0;  0;  0
+2020-02-24;Hospitalised;0-59;Syddanmark; 0;  0;  0
+2020-02-24;Hospitalised;60+;Syddanmark; 0;  0;  0
+2020-02-24;Hospitalised;0-59;Hovedstaden; 0;  0;  0
+2020-02-24;Hospitalised;60+;Hovedstaden; 0;  0;  0
+2020-02-24;Hospitalised;0-59;Zealand; 0;  0;  0
+2020-02-24;Hospitalised;60+;Zealand; 0;  0;  0
+2020-02-25;Hospitalised;0-59;Nordjylland; 0;  0;  0
+2020-02-25;Hospitalised;60+;Nordjylland; 0;  0;  0
+2020-02-25;Hospitalised;0-59;Midtjylland; 0;  0;  0
+2020-02-25;Hospitalised;60+;Midtjylland; 0;  0;  0
+2020-02-25;Hospitalised;0-59;Syddanmark; 0;  0;  0
+2020-02-25;Hospitalised;60+;Syddanmark; 0;  0;  0
+2020-02-25;Hospitalised;0-59;Hovedstaden; 0;  0;  0
+2020-02-25;Hospitalised;60+;Hovedstaden; 0;  0;  0
+2020-02-25;Hospitalised;0-59;Zealand; 0;  0;  0
+2020-02-25;Hospitalised;60+;Zealand; 0;  0;  0
+2020-02-26;Hospitalised;0-59;Nordjylland; 0;  0;  0
+2020-02-26;Hospitalised;60+;Nordjylland; 0;  0;  0
+2020-02-26;Hospitalised;0-59;Midtjylland; 0;  0;  0
+2020-02-26;Hospitalised;60+;Midtjylland; 0;  0;  0
+2020-02-26;Hospitalised;0-59;Syddanmark; 0;  0;  0
+2020-02-26;Hospitalised;60+;Syddanmark; 0;  0;  0
+2020-02-26;Hospitalised;0-59;Hovedstaden; 0;  0;  0
+2020-02-26;Hospitalised;60+;Hovedstaden; 0;  0;  0
+2020-02-26;Hospitalised;0-59;Zealand; 0;  0;  0
+2020-02-26;Hospitalised;60+;Zealand; 0;  0;  0
+2020-02-27;Hospitalised;0-59;Nordjylland; 0;  0;  0
+2020-02-27;Hospitalised;60+;Nordjylland; 0;  0;  0
+2020-02-27;Hospitalised;0-59;Midtjylland; 0;  0;  0
+2020-02-27;Hospitalised;60+;Midtjylland; 0;  0;  0
+2020-02-27;Hospitalised;0-59;Syddanmark; 0;  0;  0
+2020-02-27;Hospitalised;60+;Syddanmark; 0;  0;  0
+2020-02-27;Hospitalised;0-59;Hovedstaden; 0;  0;  0
+2020-02-27;Hospitalised;60+;Hovedstaden; 0;  0;  0
+2020-02-27;Hospitalised;0-59;Zealand; 0;  0;  0
+2020-02-27;Hospitalised;60+;Zealand; 0;  0;  0
+2020-02-28;Hospitalised;0-59;Nordjylland; 0;  0;  0
+2020-02-28;Hospitalised;60+;Nordjylland; 0;  0;  0
+2020-02-28;Hospitalised;0-59;Midtjylland; 0;  0;  0
+2020-02-28;Hospitalised;60+;Midtjylland; 0;  0;  0
+2020-02-28;Hospitalised;0-59;Syddanmark; 0;  0;  0
+2020-02-28;Hospitalised;60+;Syddanmark; 0;  0;  0
+2020-02-28;Hospitalised;0-59;Hovedstaden; 0;  0;  0
+2020-02-28;Hospitalised;60+;Hovedstaden; 0;  0;  0
+2020-02-28;Hospitalised;0-59;Zealand; 0;  0;  0
+2020-02-28;Hospitalised;60+;Zealand; 0;  0;  0
+2020-02-29;Hospitalised;0-59;Nordjylland; 0;  0;  0
+2020-02-29;Hospitalised;60+;Nordjylland; 0;  0;  0
+2020-02-29;Hospitalised;0-59;Midtjylland; 0;  0;  0
+2020-02-29;Hospitalised;60+;Midtjylland; 0;  0;  0
+2020-02-29;Hospitalised;0-59;Syddanmark; 0;  0;  0
+2020-02-29;Hospitalised;60+;Syddanmark; 0;  0;  0
+2020-02-29;Hospitalised;0-59;Hovedstaden; 0;  0;  0
+2020-02-29;Hospitalised;60+;Hovedstaden; 0;  0;  0
+2020-02-29;Hospitalised;0-59;Zealand; 0;  0;  0
+2020-02-29;Hospitalised;60+;Zealand; 0;  0;  0
+2020-03-01;Hospitalised;0-59;Hovedstaden; 1;  1;  1
+2020-03-01;Hospitalised;0-59;Nordjylland; 0;  0;  0
+2020-03-01;Hospitalised;60+;Nordjylland; 0;  0;  0
+2020-03-01;Hospitalised;0-59;Midtjylland; 0;  0;  0
+2020-03-01;Hospitalised;60+;Midtjylland; 0;  0;  0
+2020-03-01;Hospitalised;0-59;Syddanmark; 0;  0;  0
+2020-03-01;Hospitalised;60+;Syddanmark; 0;  0;  0
+2020-03-01;Hospitalised;60+;Hovedstaden; 0;  0;  0
+2020-03-01;Hospitalised;0-59;Zealand; 0;  0;  0
+2020-03-01;Hospitalised;60+;Zealand; 0;  0;  0
+2020-03-02;Hospitalised;0-59;Nordjylland; 0;  0;  0
+2020-03-02;Hospitalised;60+;Nordjylland; 0;  0;  0
+2020-03-02;Hospitalised;0-59;Midtjylland; 0;  0;  0
+2020-03-02;Hospitalised;60+;Midtjylland; 0;  0;  0
+2020-03-02;Hospitalised;0-59;Syddanmark; 0;  0;  0
+2020-03-02;Hospitalised;60+;Syddanmark; 0;  0;  0
+2020-03-02;Hospitalised;0-59;Hovedstaden; 0;  1;  1
+2020-03-02;Hospitalised;60+;Hovedstaden; 0;  0;  0
+2020-03-02;Hospitalised;0-59;Zealand; 0;  0;  0
+2020-03-02;Hospitalised;60+;Zealand; 0;  0;  0
+2020-03-03;Hospitalised;0-59;Hovedstaden; 1;  2;  2
+2020-03-03;Hospitalised;0-59;Nordjylland; 0;  0;  0
+2020-03-03;Hospitalised;60+;Nordjylland; 0;  0;  0
+2020-03-03;Hospitalised;0-59;Midtjylland; 0;  0;  0
+2020-03-03;Hospitalised;60+;Midtjylland; 0;  0;  0
+2020-03-03;Hospitalised;0-59;Syddanmark; 0;  0;  0
+2020-03-03;Hospitalised;60+;Syddanmark; 0;  0;  0
+2020-03-03;Hospitalised;60+;Hovedstaden; 0;  0;  0
+2020-03-03;Hospitalised;0-59;Zealand; 0;  0;  0
+2020-03-03;Hospitalised;60+;Zealand; 0;  0;  0
+2020-03-04;Hospitalised;0-59;Nordjylland; 0;  0;  0
+2020-03-04;Hospitalised;60+;Nordjylland; 0;  0;  0
+2020-03-04;Hospitalised;0-59;Midtjylland; 0;  0;  0
+2020-03-04;Hospitalised;60+;Midtjylland; 0;  0;  0
+2020-03-04;Hospitalised;0-59;Syddanmark; 0;  0;  0
+2020-03-04;Hospitalised;60+;Syddanmark; 0;  0;  0
+2020-03-04;Hospitalised;0-59;Hovedstaden; 0;  2;  2
+2020-03-04;Hospitalised;60+;Hovedstaden; 0;  0;  0
+2020-03-04;Hospitalised;0-59;Zealand; 0;  0;  0
+2020-03-04;Hospitalised;60+;Zealand; 0;  0;  0
+2020-03-05;Hospitalised;0-59;Hovedstaden; 0;  2;  1
+2020-03-05;Hospitalised;60+;Hovedstaden; 1;  1;  1
+2020-03-05;Hospitalised;0-59;Nordjylland; 0;  0;  0
+2020-03-05;Hospitalised;60+;Nordjylland; 0;  0;  0
+2020-03-05;Hospitalised;0-59;Midtjylland; 0;  0;  0
+2020-03-05;Hospitalised;60+;Midtjylland; 0;  0;  0
+2020-03-05;Hospitalised;0-59;Syddanmark; 0;  0;  0
+2020-03-05;Hospitalised;60+;Syddanmark; 0;  0;  0
+2020-03-05;Hospitalised;0-59;Zealand; 0;  0;  0
+2020-03-05;Hospitalised;60+;Zealand; 0;  0;  0
+2020-03-06;Hospitalised;60+;Hovedstaden; 3;  4;  4
+2020-03-06;Hospitalised;0-59;Zealand; 1;  1;  1
+2020-03-06;Hospitalised;0-59;Nordjylland; 0;  0;  0
+2020-03-06;Hospitalised;60+;Nordjylland; 0;  0;  0
+2020-03-06;Hospitalised;0-59;Midtjylland; 0;  0;  0
+2020-03-06;Hospitalised;60+;Midtjylland; 0;  0;  0
+2020-03-06;Hospitalised;0-59;Syddanmark; 0;  0;  0
+2020-03-06;Hospitalised;60+;Syddanmark; 0;  0;  0
+2020-03-06;Hospitalised;0-59;Hovedstaden; 0;  2;  1
+2020-03-06;Hospitalised;60+;Zealand; 0;  0;  0
+2020-03-07;Hospitalised;0-59;Nordjylland; 0;  0;  0
+2020-03-07;Hospitalised;60+;Nordjylland; 0;  0;  0
+2020-03-07;Hospitalised;0-59;Midtjylland; 0;  0;  0
+2020-03-07;Hospitalised;60+;Midtjylland; 0;  0;  0
+2020-03-07;Hospitalised;0-59;Syddanmark; 0;  0;  0
+2020-03-07;Hospitalised;60+;Syddanmark; 0;  0;  0
+2020-03-07;Hospitalised;0-59;Hovedstaden; 0;  2;  1
+2020-03-07;Hospitalised;60+;Hovedstaden; 0;  4;  4
+2020-03-07;Hospitalised;0-59;Zealand; 0;  1;  1
+2020-03-07;Hospitalised;60+;Zealand; 0;  0;  0
+2020-03-08;Hospitalised;0-59;Syddanmark; 1;  1;  1
+2020-03-08;Hospitalised;0-59;Hovedstaden; 3;  5;  4
+2020-03-08;Hospitalised;0-59;Zealand; 0;  1;  0
+2020-03-08;Hospitalised;60+;Zealand; 1;  1;  1
+2020-03-08;Hospitalised;0-59;Nordjylland; 0;  0;  0
+2020-03-08;Hospitalised;60+;Nordjylland; 0;  0;  0
+2020-03-08;Hospitalised;0-59;Midtjylland; 0;  0;  0
+2020-03-08;Hospitalised;60+;Midtjylland; 0;  0;  0
+2020-03-08;Hospitalised;60+;Syddanmark; 0;  0;  0
+2020-03-08;Hospitalised;60+;Hovedstaden; 0;  4;  4
+2020-03-09;Hospitalised;0-59;Hovedstaden; 2;  7;  6
+2020-03-09;Hospitalised;60+;Hovedstaden; 3;  7;  7
+2020-03-09;Hospitalised;0-59;Zealand; 6;  7;  6
+2020-03-09;Hospitalised;60+;Zealand; 1;  2;  2
+2020-03-09;Hospitalised;0-59;Nordjylland; 0;  0;  0
+2020-03-09;Hospitalised;60+;Nordjylland; 0;  0;  0
+2020-03-09;Hospitalised;0-59;Midtjylland; 0;  0;  0
+2020-03-09;Hospitalised;60+;Midtjylland; 0;  0;  0
+2020-03-09;Hospitalised;0-59;Syddanmark; 0;  1;  1
+2020-03-09;Hospitalised;60+;Syddanmark; 0;  0;  0
+2020-03-10;Hospitalised;0-59;Midtjylland; 3;  3;  3
+2020-03-10;Hospitalised;60+;Midtjylland; 1;  1;  1
+2020-03-10;Hospitalised;0-59;Syddanmark; 1;  2;  2
+2020-03-10;Hospitalised;0-59;Hovedstaden; 4; 11;  9
+2020-03-10;Hospitalised;60+;Hovedstaden; 4; 11; 11
+2020-03-10;Hospitalised;0-59;Zealand; 3; 10;  9
+2020-03-10;Hospitalised;0-59;Nordjylland; 0;  0;  0
+2020-03-10;Hospitalised;60+;Nordjylland; 0;  0;  0
+2020-03-10;Hospitalised;60+;Syddanmark; 0;  0;  0
+2020-03-10;Hospitalised;60+;Zealand; 0;  2;  2
+2020-03-11;Hospitalised;60+;Nordjylland; 2;  2;  2
+2020-03-11;Hospitalised;0-59;Hovedstaden; 2; 13; 11
+2020-03-11;Hospitalised;60+;Hovedstaden; 3; 14; 13
+2020-03-11;Hospitalised;0-59;Zealand; 4; 14;  7
+2020-03-11;Hospitalised;0-59;Nordjylland; 0;  0;  0
+2020-03-11;Hospitalised;0-59;Midtjylland; 0;  3;  3
+2020-03-11;Hospitalised;60+;Midtjylland; 0;  1;  1
+2020-03-11;Hospitalised;0-59;Syddanmark; 0;  2;  2
+2020-03-11;Hospitalised;60+;Syddanmark; 0;  0;  0
+2020-03-11;Hospitalised;60+;Zealand; 0;  2;  2
+2020-03-12;Hospitalised;60+;Nordjylland; 1;  3;  3
+2020-03-12;Hospitalised;0-59;Midtjylland; 5;  8;  6
+2020-03-12;Hospitalised;60+;Midtjylland; 1;  2;  2
+2020-03-12;Hospitalised;0-59;Syddanmark; 1;  3;  2
+2020-03-12;Hospitalised;0-59;Hovedstaden; 0; 13;  9
+2020-03-12;Hospitalised;60+;Hovedstaden; 2; 16; 15
+2020-03-12;Hospitalised;0-59;Zealand; 3; 17; 10
+2020-03-12;Hospitalised;60+;Zealand; 2;  4;  4
+2020-03-12;Hospitalised;0-59;Nordjylland; 0;  0;  0
+2020-03-12;Hospitalised;60+;Syddanmark; 0;  0;  0
+2020-03-13;Hospitalised;0-59;Midtjylland; 3; 11;  9
+2020-03-13;Hospitalised;60+;Midtjylland; 4;  6;  6
+2020-03-13;Hospitalised;0-59;Syddanmark; 1;  4;  3
+2020-03-13;Hospitalised;60+;Syddanmark; 2;  2;  2
+2020-03-13;Hospitalised;0-59;Hovedstaden; 4; 17; 10
+2020-03-13;Hospitalised;60+;Hovedstaden; 6; 22; 19
+2020-03-13;Hospitalised;0-59;Zealand; 2; 19; 10
+2020-03-13;Hospitalised;60+;Zealand; 1;  5;  5
+2020-03-13;Hospitalised;0-59;Nordjylland; 0;  0;  0
+2020-03-13;Hospitalised;60+;Nordjylland; 0;  3;  3
+2020-03-14;Hospitalised;60+;Nordjylland; 1;  4;  4
+2020-03-14;Hospitalised;0-59;Midtjylland; 2; 13;  6
+2020-03-14;Hospitalised;60+;Midtjylland; 1;  7;  6
+2020-03-14;Hospitalised;0-59;Syddanmark; 2;  6;  3
+2020-03-14;Hospitalised;60+;Syddanmark; 2;  4;  4
+2020-03-14;Hospitalised;0-59;Hovedstaden; 5; 22; 13
+2020-03-14;Hospitalised;60+;Hovedstaden; 4; 26; 23
+2020-03-14;Hospitalised;0-59;Zealand; 4; 23;  8
+2020-03-14;Hospitalised;60+;Zealand; 2;  7;  7
+2020-03-14;Hospitalised;0-59;Nordjylland; 0;  0;  0
+2020-03-15;Hospitalised;0-59;Nordjylland; 1;  1;  1
+2020-03-15;Hospitalised;60+;Nordjylland; 2;  6;  6
+2020-03-15;Hospitalised;0-59;Midtjylland; 2; 15;  7
+2020-03-15;Hospitalised;60+;Midtjylland; 2;  9;  6
+2020-03-15;Hospitalised;60+;Syddanmark; 1;  5;  5
+2020-03-15;Hospitalised;0-59;Hovedstaden; 5; 27; 17
+2020-03-15;Hospitalised;60+;Hovedstaden;11; 37; 33
+2020-03-15;Hospitalised;0-59;Zealand; 1; 24;  7
+2020-03-15;Hospitalised;60+;Zealand; 4; 11; 11
+2020-03-15;Hospitalised;0-59;Syddanmark; 0;  6;  3
+2020-03-16;Hospitalised;60+;Nordjylland; 2;  8;  7
+2020-03-16;Hospitalised;0-59;Midtjylland; 1; 16;  5
+2020-03-16;Hospitalised;60+;Midtjylland; 2; 11;  8
+2020-03-16;Hospitalised;0-59;Syddanmark; 1;  7;  3
+2020-03-16;Hospitalised;60+;Syddanmark; 4;  9;  9
+2020-03-16;Hospitalised;0-59;Hovedstaden;10; 37; 24
+2020-03-16;Hospitalised;60+;Hovedstaden; 9; 46; 40
+2020-03-16;Hospitalised;0-59;Zealand; 2; 26;  8
+2020-03-16;Hospitalised;60+;Zealand; 6; 17; 16
+2020-03-16;Hospitalised;0-59;Nordjylland; 0;  1;  1
+2020-03-17;Hospitalised;0-59;Nordjylland; 1;  2;  2
+2020-03-17;Hospitalised;60+;Nordjylland; 2; 10;  9
+2020-03-17;Hospitalised;0-59;Midtjylland; 2; 18;  6
+2020-03-17;Hospitalised;60+;Midtjylland; 4; 15; 12
+2020-03-17;Hospitalised;0-59;Syddanmark; 1;  8;  4
+2020-03-17;Hospitalised;60+;Syddanmark; 3; 12; 12
+2020-03-17;Hospitalised;0-59;Hovedstaden; 7; 44; 30
+2020-03-17;Hospitalised;60+;Hovedstaden;17; 63; 54
+2020-03-17;Hospitalised;0-59;Zealand; 2; 28;  9
+2020-03-17;Hospitalised;60+;Zealand; 6; 23; 22
+2020-03-18;Hospitalised;60+;Nordjylland; 4; 14; 12
+2020-03-18;Hospitalised;0-59;Midtjylland; 1; 19;  4
+2020-03-18;Hospitalised;60+;Midtjylland; 3; 18; 15
+2020-03-18;Hospitalised;0-59;Syddanmark; 1;  9;  5
+2020-03-18;Hospitalised;60+;Syddanmark; 4; 16; 15
+2020-03-18;Hospitalised;0-59;Hovedstaden; 6; 50; 32
+2020-03-18;Hospitalised;60+;Hovedstaden;14; 77; 63
+2020-03-18;Hospitalised;0-59;Zealand; 1; 29;  9
+2020-03-18;Hospitalised;60+;Zealand;11; 34; 31
+2020-03-18;Hospitalised;0-59;Nordjylland; 0;  2;  2
+2020-03-19;Hospitalised;0-59;Nordjylland; 1;  3;  1
+2020-03-19;Hospitalised;60+;Nordjylland; 5; 19; 16
+2020-03-19;Hospitalised;0-59;Midtjylland; 3; 22;  6
+2020-03-19;Hospitalised;60+;Midtjylland; 1; 19; 16
+2020-03-19;Hospitalised;0-59;Syddanmark; 2; 11;  6
+2020-03-19;Hospitalised;60+;Syddanmark; 4; 20; 17
+2020-03-19;Hospitalised;0-59;Hovedstaden;11; 61; 39
+2020-03-19;Hospitalised;60+;Hovedstaden;18; 95; 72
+2020-03-19;Hospitalised;0-59;Zealand; 0; 29;  7
+2020-03-19;Hospitalised;60+;Zealand; 6; 40; 34
+2020-03-20;Hospitalised;60+;Nordjylland; 2; 21; 17
+2020-03-20;Hospitalised;0-59;Midtjylland; 1; 23;  7
+2020-03-20;Hospitalised;60+;Midtjylland; 4; 23; 19
+2020-03-20;Hospitalised;0-59;Syddanmark; 6; 17; 12
+2020-03-20;Hospitalised;60+;Syddanmark; 3; 23; 20
+2020-03-20;Hospitalised;0-59;Hovedstaden; 6; 67; 40
+2020-03-20;Hospitalised;60+;Hovedstaden;27;122; 94
+2020-03-20;Hospitalised;0-59;Zealand; 2; 31;  8
+2020-03-20;Hospitalised;60+;Zealand;12; 52; 41
+2020-03-20;Hospitalised;0-59;Nordjylland; 0;  3;  1
+2020-03-21;Hospitalised;60+;Nordjylland; 2; 23; 17
+2020-03-21;Hospitalised;0-59;Midtjylland; 1; 24;  7
+2020-03-21;Hospitalised;60+;Midtjylland; 3; 26; 21
+2020-03-21;Hospitalised;0-59;Syddanmark; 2; 19; 13
+2020-03-21;Hospitalised;60+;Syddanmark; 2; 25; 20
+2020-03-21;Hospitalised;0-59;Hovedstaden; 6; 73; 46
+2020-03-21;Hospitalised;60+;Hovedstaden;10;132; 97
+2020-03-21;Hospitalised;0-59;Zealand; 4; 35; 11
+2020-03-21;Hospitalised;60+;Zealand; 6; 58; 43
+2020-03-21;Hospitalised;0-59;Nordjylland; 0;  3;  1
+2020-03-22;Hospitalised;0-59;Nordjylland; 1;  4;  2
+2020-03-22;Hospitalised;60+;Nordjylland; 1; 24; 17
+2020-03-22;Hospitalised;0-59;Midtjylland; 3; 27;  9
+2020-03-22;Hospitalised;60+;Midtjylland; 4; 30; 24
+2020-03-22;Hospitalised;0-59;Syddanmark; 1; 20; 11
+2020-03-22;Hospitalised;60+;Syddanmark; 1; 26; 20
+2020-03-22;Hospitalised;0-59;Hovedstaden; 6; 79; 49
+2020-03-22;Hospitalised;60+;Hovedstaden;15;147;107
+2020-03-22;Hospitalised;0-59;Zealand; 0; 35; 10
+2020-03-22;Hospitalised;60+;Zealand; 6; 64; 46
+2020-03-23;Hospitalised;60+;Nordjylland; 5; 29; 20
+2020-03-23;Hospitalised;0-59;Midtjylland; 5; 32; 13
+2020-03-23;Hospitalised;60+;Midtjylland;11; 41; 34
+2020-03-23;Hospitalised;0-59;Syddanmark; 4; 24; 14
+2020-03-23;Hospitalised;60+;Syddanmark; 6; 32; 23
+2020-03-23;Hospitalised;0-59;Hovedstaden;10; 89; 55
+2020-03-23;Hospitalised;60+;Hovedstaden;31;178;132
+2020-03-23;Hospitalised;0-59;Zealand; 2; 37;  9
+2020-03-23;Hospitalised;60+;Zealand; 9; 73; 52
+2020-03-23;Hospitalised;0-59;Nordjylland; 0;  4;  2
+2020-03-24;Hospitalised;0-59;Nordjylland; 3;  7;  5
+2020-03-24;Hospitalised;60+;Nordjylland; 6; 35; 25
+2020-03-24;Hospitalised;0-59;Midtjylland; 4; 36; 17
+2020-03-24;Hospitalised;60+;Midtjylland;10; 51; 43
+2020-03-24;Hospitalised;0-59;Syddanmark; 4; 28; 17
+2020-03-24;Hospitalised;60+;Syddanmark; 9; 41; 32
+2020-03-24;Hospitalised;0-59;Hovedstaden; 6; 95; 56
+2020-03-24;Hospitalised;60+;Hovedstaden;31;209;152
+2020-03-24;Hospitalised;0-59;Zealand; 1; 38; 10
+2020-03-24;Hospitalised;60+;Zealand; 8; 81; 57
+2020-03-25;Hospitalised;0-59;Nordjylland; 1;  8;  6
+2020-03-25;Hospitalised;60+;Nordjylland; 5; 40; 27
+2020-03-25;Hospitalised;0-59;Midtjylland; 5; 41; 22
+2020-03-25;Hospitalised;60+;Midtjylland; 7; 58; 46
+2020-03-25;Hospitalised;0-59;Syddanmark; 3; 31; 18
+2020-03-25;Hospitalised;60+;Syddanmark; 9; 50; 40
+2020-03-25;Hospitalised;0-59;Hovedstaden;11;106; 59
+2020-03-25;Hospitalised;60+;Hovedstaden;29;238;171
+2020-03-25;Hospitalised;0-59;Zealand; 1; 39;  9
+2020-03-25;Hospitalised;60+;Zealand;14; 95; 65
+2020-03-26;Hospitalised;0-59;Nordjylland; 1;  9;  6
+2020-03-26;Hospitalised;60+;Nordjylland; 4; 44; 30
+2020-03-26;Hospitalised;0-59;Midtjylland; 4; 45; 24
+2020-03-26;Hospitalised;60+;Midtjylland; 7; 65; 46
+2020-03-26;Hospitalised;0-59;Syddanmark; 6; 37; 23
+2020-03-26;Hospitalised;60+;Syddanmark; 6; 56; 43
+2020-03-26;Hospitalised;0-59;Hovedstaden;12;118; 56
+2020-03-26;Hospitalised;60+;Hovedstaden;31;269;195
+2020-03-26;Hospitalised;0-59;Zealand; 6; 45; 13
+2020-03-26;Hospitalised;60+;Zealand; 6;101; 65
+2020-03-27;Hospitalised;0-59;Nordjylland; 3; 12;  7
+2020-03-27;Hospitalised;60+;Nordjylland; 1; 45; 29
+2020-03-27;Hospitalised;0-59;Midtjylland; 5; 50; 24
+2020-03-27;Hospitalised;60+;Midtjylland; 6; 71; 50
+2020-03-27;Hospitalised;0-59;Syddanmark; 4; 41; 27
+2020-03-27;Hospitalised;60+;Syddanmark;15; 71; 54
+2020-03-27;Hospitalised;0-59;Hovedstaden;17;135; 66
+2020-03-27;Hospitalised;60+;Hovedstaden;19;288;198
+2020-03-27;Hospitalised;0-59;Zealand; 4; 49; 16
+2020-03-27;Hospitalised;60+;Zealand; 9;110; 66
+2020-03-28;Hospitalised;0-59;Nordjylland; 0; 12;  6
+2020-03-28;Hospitalised;60+;Nordjylland; 5; 50; 30
+2020-03-28;Hospitalised;0-59;Midtjylland; 1; 51; 22
+2020-03-28;Hospitalised;60+;Midtjylland; 8; 79; 53
+2020-03-28;Hospitalised;0-59;Syddanmark; 7; 48; 27
+2020-03-28;Hospitalised;60+;Syddanmark; 9; 80; 61
+2020-03-28;Hospitalised;0-59;Hovedstaden;11;146; 69
+2020-03-28;Hospitalised;60+;Hovedstaden;18;306;193
+2020-03-28;Hospitalised;0-59;Zealand; 4; 53; 17
+2020-03-28;Hospitalised;60+;Zealand;16;126; 77
+2020-03-29;Hospitalised;0-59;Nordjylland; 0; 12;  5
+2020-03-29;Hospitalised;60+;Nordjylland; 4; 54; 33
+2020-03-29;Hospitalised;0-59;Midtjylland; 1; 52; 18
+2020-03-29;Hospitalised;60+;Midtjylland; 3; 82; 52
+2020-03-29;Hospitalised;60+;Syddanmark; 8; 88; 68
+2020-03-29;Hospitalised;0-59;Hovedstaden; 5;151; 68
+2020-03-29;Hospitalised;60+;Hovedstaden;18;324;198
+2020-03-29;Hospitalised;0-59;Zealand; 3; 56; 16
+2020-03-29;Hospitalised;60+;Zealand; 4;130; 75
+2020-03-29;Hospitalised;0-59;Syddanmark; 0; 48; 27
+2020-03-30;Hospitalised;0-59;Nordjylland; 1; 13;  5
+2020-03-30;Hospitalised;0-59;Midtjylland; 3; 55; 19
+2020-03-30;Hospitalised;60+;Midtjylland; 7; 89; 56
+2020-03-30;Hospitalised;0-59;Syddanmark; 2; 50; 24
+2020-03-30;Hospitalised;60+;Syddanmark; 1; 89; 64
+2020-03-30;Hospitalised;0-59;Hovedstaden;13;164; 75
+2020-03-30;Hospitalised;60+;Hovedstaden;27;351;219
+2020-03-30;Hospitalised;0-59;Zealand; 2; 58; 16
+2020-03-30;Hospitalised;60+;Zealand;10;140; 78
+2020-03-30;Hospitalised;60+;Nordjylland; 0; 54; 33
+2020-03-31;Hospitalised;0-59;Nordjylland; 1; 14;  5
+2020-03-31;Hospitalised;60+;Nordjylland; 3; 57; 32
+2020-03-31;Hospitalised;0-59;Midtjylland; 4; 59; 21
+2020-03-31;Hospitalised;60+;Midtjylland; 3; 92; 56
+2020-03-31;Hospitalised;0-59;Syddanmark; 2; 52; 21
+2020-03-31;Hospitalised;60+;Syddanmark; 2; 91; 62
+2020-03-31;Hospitalised;0-59;Hovedstaden;12;176; 76
+2020-03-31;Hospitalised;60+;Hovedstaden;16;367;210
+2020-03-31;Hospitalised;0-59;Zealand; 3; 61; 16
+2020-03-31;Hospitalised;60+;Zealand; 3;143; 76
+2020-04-01;Hospitalised;0-59;Nordjylland; 2; 16;  6
+2020-04-01;Hospitalised;60+;Nordjylland; 3; 60; 32
+2020-04-01;Hospitalised;0-59;Midtjylland; 2; 61; 22
+2020-04-01;Hospitalised;60+;Midtjylland; 4; 96; 53
+2020-04-01;Hospitalised;0-59;Syddanmark; 3; 55; 24
+2020-04-01;Hospitalised;60+;Syddanmark; 8; 99; 67
+2020-04-01;Hospitalised;0-59;Hovedstaden; 5;181; 74
+2020-04-01;Hospitalised;60+;Hovedstaden;22;389;206
+2020-04-01;Hospitalised;0-59;Zealand; 2; 63; 16
+2020-04-01;Hospitalised;60+;Zealand; 5;148; 73
+2020-04-02;Hospitalised;0-59;Nordjylland; 1; 17;  7
+2020-04-02;Hospitalised;60+;Nordjylland; 1; 61; 32
+2020-04-02;Hospitalised;0-59;Midtjylland; 2; 63; 21
+2020-04-02;Hospitalised;60+;Midtjylland; 5;101; 56
+2020-04-02;Hospitalised;0-59;Syddanmark; 3; 58; 20
+2020-04-02;Hospitalised;60+;Syddanmark; 3;102; 67
+2020-04-02;Hospitalised;0-59;Hovedstaden; 5;186; 66
+2020-04-02;Hospitalised;60+;Hovedstaden;23;412;200
+2020-04-02;Hospitalised;0-59;Zealand; 4; 67; 17
+2020-04-02;Hospitalised;60+;Zealand; 3;151; 68
+2020-04-03;Hospitalised;0-59;Nordjylland; 6; 23; 12
+2020-04-03;Hospitalised;60+;Nordjylland; 4; 65; 34
+2020-04-03;Hospitalised;0-59;Midtjylland; 6; 69; 26
+2020-04-03;Hospitalised;60+;Midtjylland; 7;108; 56
+2020-04-03;Hospitalised;0-59;Syddanmark; 2; 60; 20
+2020-04-03;Hospitalised;60+;Syddanmark; 6;108; 68
+2020-04-03;Hospitalised;0-59;Hovedstaden; 9;195; 67
+2020-04-03;Hospitalised;60+;Hovedstaden;14;426;190
+2020-04-03;Hospitalised;0-59;Zealand; 2; 69; 19
+2020-04-03;Hospitalised;60+;Zealand; 4;155; 64
+2020-04-04;Hospitalised;0-59;Nordjylland; 0; 23; 11
+2020-04-04;Hospitalised;60+;Nordjylland; 1; 66; 35
+2020-04-04;Hospitalised;0-59;Midtjylland; 0; 69; 21
+2020-04-04;Hospitalised;60+;Midtjylland; 6;114; 59
+2020-04-04;Hospitalised;0-59;Syddanmark; 0; 60; 15
+2020-04-04;Hospitalised;60+;Syddanmark; 0;108; 64
+2020-04-04;Hospitalised;0-59;Hovedstaden; 4;199; 66
+2020-04-04;Hospitalised;60+;Hovedstaden;15;441;173
+2020-04-04;Hospitalised;0-59;Zealand; 1; 70; 16
+2020-04-04;Hospitalised;60+;Zealand; 4;159; 61
+2020-04-05;Hospitalised;0-59;Nordjylland; 0; 23;  7
+2020-04-05;Hospitalised;60+;Nordjylland; 0; 66; 31
+2020-04-05;Hospitalised;0-59;Midtjylland; 0; 69; 18
+2020-04-05;Hospitalised;60+;Midtjylland; 3;117; 55
+2020-04-05;Hospitalised;0-59;Syddanmark; 2; 62; 16
+2020-04-05;Hospitalised;60+;Syddanmark; 1;109; 61
+2020-04-05;Hospitalised;0-59;Hovedstaden; 6;205; 58
+2020-04-05;Hospitalised;60+;Hovedstaden;10;451;176
+2020-04-05;Hospitalised;0-59;Zealand; 4; 74; 20
+2020-04-05;Hospitalised;60+;Zealand; 1;160; 57
+2020-04-06;Hospitalised;0-59;Nordjylland; 1; 24;  8
+2020-04-06;Hospitalised;0-59;Midtjylland; 0; 69; 16
+2020-04-06;Hospitalised;60+;Midtjylland; 4;121; 56
+2020-04-06;Hospitalised;0-59;Syddanmark; 2; 64; 16
+2020-04-06;Hospitalised;60+;Syddanmark; 6;115; 63
+2020-04-06;Hospitalised;0-59;Hovedstaden;12;217; 62
+2020-04-06;Hospitalised;60+;Hovedstaden;11;462;173
+2020-04-06;Hospitalised;0-59;Zealand; 4; 78; 22
+2020-04-06;Hospitalised;60+;Zealand; 6;166; 59
+2020-04-06;Hospitalised;60+;Nordjylland; 0; 66; 31
+2020-04-07;Hospitalised;60+;Nordjylland; 0; 66; 27
+2020-04-07;Hospitalised;0-59;Midtjylland; 1; 70; 14
+2020-04-07;Hospitalised;60+;Midtjylland; 3;124; 55
+2020-04-07;Hospitalised;0-59;Syddanmark; 1; 65; 14
+2020-04-07;Hospitalised;60+;Syddanmark; 6;121; 61
+2020-04-07;Hospitalised;0-59;Hovedstaden; 5;222; 55
+2020-04-07;Hospitalised;60+;Hovedstaden;18;480;169
+2020-04-07;Hospitalised;0-59;Zealand; 1; 79; 20
+2020-04-07;Hospitalised;60+;Zealand; 3;169; 56
+2020-04-07;Hospitalised;0-59;Nordjylland; 0; 24;  8
+2020-04-08;Hospitalised;0-59;Nordjylland; 0; 24;  7
+2020-04-08;Hospitalised;60+;Nordjylland; 1; 67; 27
+2020-04-08;Hospitalised;0-59;Midtjylland; 1; 71; 12
+2020-04-08;Hospitalised;60+;Midtjylland; 2;126; 54
+2020-04-08;Hospitalised;0-59;Syddanmark; 1; 66; 11
+2020-04-08;Hospitalised;60+;Syddanmark; 3;124; 56
+2020-04-08;Hospitalised;0-59;Hovedstaden; 5;227; 54
+2020-04-08;Hospitalised;60+;Hovedstaden; 7;487;150
+2020-04-08;Hospitalised;0-59;Zealand; 3; 82; 21
+2020-04-08;Hospitalised;60+;Zealand; 1;170; 51
+2020-04-09;Hospitalised;0-59;Nordjylland; 0; 24;  5
+2020-04-09;Hospitalised;60+;Nordjylland; 0; 67; 23
+2020-04-09;Hospitalised;0-59;Midtjylland; 2; 73; 13
+2020-04-09;Hospitalised;60+;Midtjylland; 3;129; 52
+2020-04-09;Hospitalised;0-59;Syddanmark; 1; 67; 12
+2020-04-09;Hospitalised;60+;Syddanmark; 0;124; 52
+2020-04-09;Hospitalised;0-59;Hovedstaden; 5;232; 52
+2020-04-09;Hospitalised;60+;Hovedstaden;13;500;141
+2020-04-09;Hospitalised;0-59;Zealand; 2; 84; 20
+2020-04-09;Hospitalised;60+;Zealand; 3;173; 48
+2020-04-10;Hospitalised;60+;Nordjylland; 3; 70; 24
+2020-04-10;Hospitalised;0-59;Midtjylland; 0; 73; 11
+2020-04-10;Hospitalised;60+;Midtjylland; 3;132; 51
+2020-04-10;Hospitalised;0-59;Syddanmark; 1; 68; 11
+2020-04-10;Hospitalised;60+;Syddanmark; 0;124; 44
+2020-04-10;Hospitalised;0-59;Hovedstaden; 3;235; 50
+2020-04-10;Hospitalised;60+;Hovedstaden;11;511;138
+2020-04-10;Hospitalised;0-59;Zealand; 2; 86; 17
+2020-04-10;Hospitalised;60+;Zealand; 3;176; 46
+2020-04-10;Hospitalised;0-59;Nordjylland; 0; 24;  5
+2020-04-11;Hospitalised;0-59;Nordjylland; 1; 25;  6
+2020-04-11;Hospitalised;0-59;Midtjylland; 1; 74;  9
+2020-04-11;Hospitalised;60+;Midtjylland; 1;133; 51
+2020-04-11;Hospitalised;0-59;Syddanmark; 3; 71; 14
+2020-04-11;Hospitalised;60+;Syddanmark; 1;125; 40
+2020-04-11;Hospitalised;0-59;Hovedstaden; 5;240; 52
+2020-04-11;Hospitalised;60+;Hovedstaden; 7;518;131
+2020-04-11;Hospitalised;0-59;Zealand; 2; 88; 19
+2020-04-11;Hospitalised;60+;Zealand; 2;178; 43
+2020-04-11;Hospitalised;60+;Nordjylland; 0; 70; 24
+2020-04-12;Hospitalised;0-59;Nordjylland; 1; 26;  7
+2020-04-12;Hospitalised;60+;Nordjylland; 0; 70; 23
+2020-04-12;Hospitalised;0-59;Midtjylland; 1; 75;  9
+2020-04-12;Hospitalised;60+;Midtjylland; 2;135; 50
+2020-04-12;Hospitalised;0-59;Syddanmark; 0; 71; 12
+2020-04-12;Hospitalised;60+;Syddanmark; 3;128; 41
+2020-04-12;Hospitalised;0-59;Hovedstaden; 2;242; 48
+2020-04-12;Hospitalised;60+;Hovedstaden; 6;524;126
+2020-04-12;Hospitalised;0-59;Zealand; 2; 90; 17
+2020-04-12;Hospitalised;60+;Zealand; 4;182; 44
+2020-04-13;Hospitalised;0-59;Nordjylland; 0; 26;  6
+2020-04-13;Hospitalised;0-59;Midtjylland; 1; 76;  9
+2020-04-13;Hospitalised;60+;Midtjylland; 2;137; 48
+2020-04-13;Hospitalised;0-59;Syddanmark; 0; 71;  7
+2020-04-13;Hospitalised;60+;Syddanmark; 0;128; 36
+2020-04-13;Hospitalised;0-59;Hovedstaden; 2;244; 45
+2020-04-13;Hospitalised;60+;Hovedstaden;10;534;126
+2020-04-13;Hospitalised;0-59;Zealand; 2; 92; 16
+2020-04-13;Hospitalised;60+;Zealand; 3;185; 46
+2020-04-13;Hospitalised;60+;Nordjylland; 0; 70; 23
+2020-04-14;Hospitalised;60+;Nordjylland; 1; 71; 22
+2020-04-14;Hospitalised;0-59;Midtjylland; 2; 78;  6
+2020-04-14;Hospitalised;60+;Midtjylland; 4;141; 49
+2020-04-14;Hospitalised;0-59;Syddanmark; 1; 72;  7
+2020-04-14;Hospitalised;60+;Syddanmark; 1;129; 33
+2020-04-14;Hospitalised;0-59;Hovedstaden; 4;248; 44
+2020-04-14;Hospitalised;60+;Hovedstaden;14;548;131
+2020-04-14;Hospitalised;0-59;Zealand; 2; 94; 16
+2020-04-14;Hospitalised;60+;Zealand; 0;185; 41
+2020-04-14;Hospitalised;0-59;Nordjylland; 0; 26;  6
+2020-04-15;Hospitalised;0-59;Nordjylland; 1; 27;  5
+2020-04-15;Hospitalised;60+;Nordjylland; 0; 71; 20
+2020-04-15;Hospitalised;0-59;Midtjylland; 1; 79;  5
+2020-04-15;Hospitalised;60+;Midtjylland; 3;144; 47
+2020-04-15;Hospitalised;0-59;Syddanmark; 0; 72;  5
+2020-04-15;Hospitalised;60+;Syddanmark; 1;130; 32
+2020-04-15;Hospitalised;0-59;Hovedstaden; 2;250; 40
+2020-04-15;Hospitalised;60+;Hovedstaden; 7;555;121
+2020-04-15;Hospitalised;0-59;Zealand; 2; 96; 14
+2020-04-15;Hospitalised;60+;Zealand; 7;192; 45
+2020-04-16;Hospitalised;60+;Nordjylland; 0; 71; 17
+2020-04-16;Hospitalised;0-59;Midtjylland; 3; 82;  8
+2020-04-16;Hospitalised;60+;Midtjylland; 4;148; 45
+2020-04-16;Hospitalised;60+;Syddanmark; 1;131; 28
+2020-04-16;Hospitalised;0-59;Hovedstaden; 5;255; 41
+2020-04-16;Hospitalised;60+;Hovedstaden; 8;563;113
+2020-04-16;Hospitalised;0-59;Zealand; 2; 98; 12
+2020-04-16;Hospitalised;60+;Zealand; 3;195; 45
+2020-04-16;Hospitalised;0-59;Nordjylland; 0; 27;  5
+2020-04-16;Hospitalised;0-59;Syddanmark; 0; 72;  5
+2020-04-17;Hospitalised;60+;Nordjylland; 0; 71; 16
+2020-04-17;Hospitalised;0-59;Midtjylland; 1; 83;  7
+2020-04-17;Hospitalised;60+;Midtjylland; 1;149; 43
+2020-04-17;Hospitalised;0-59;Syddanmark; 0; 72;  4
+2020-04-17;Hospitalised;60+;Syddanmark; 2;133; 28
+2020-04-17;Hospitalised;0-59;Hovedstaden; 6;261; 44
+2020-04-17;Hospitalised;60+;Hovedstaden; 5;568;108
+2020-04-17;Hospitalised;0-59;Zealand; 2;100; 12
+2020-04-17;Hospitalised;60+;Zealand; 5;200; 44
+2020-04-17;Hospitalised;0-59;Nordjylland; 0; 27;  5
+2020-04-18;Hospitalised;60+;Nordjylland; 0; 71; 15
+2020-04-18;Hospitalised;0-59;Midtjylland; 0; 83;  5
+2020-04-18;Hospitalised;60+;Midtjylland; 2;151; 40
+2020-04-18;Hospitalised;60+;Syddanmark; 1;134; 26
+2020-04-18;Hospitalised;0-59;Hovedstaden; 3;264; 40
+2020-04-18;Hospitalised;60+;Hovedstaden; 7;575;101
+2020-04-18;Hospitalised;0-59;Zealand; 3;103; 13
+2020-04-18;Hospitalised;60+;Zealand; 4;204; 40
+2020-04-18;Hospitalised;0-59;Nordjylland; 0; 27;  5
+2020-04-18;Hospitalised;0-59;Syddanmark; 0; 72;  4
+2020-04-19;Hospitalised;60+;Nordjylland; 0; 71; 14
+2020-04-19;Hospitalised;0-59;Midtjylland; 2; 85;  6
+2020-04-19;Hospitalised;60+;Midtjylland; 2;153; 39
+2020-04-19;Hospitalised;0-59;Hovedstaden; 2;266; 40
+2020-04-19;Hospitalised;60+;Hovedstaden;12;587;106
+2020-04-19;Hospitalised;0-59;Zealand; 1;104; 13
+2020-04-19;Hospitalised;60+;Zealand; 5;209; 44
+2020-04-19;Hospitalised;0-59;Nordjylland; 0; 27;  5
+2020-04-19;Hospitalised;0-59;Syddanmark; 0; 72;  4
+2020-04-19;Hospitalised;60+;Syddanmark; 0;134; 26
+2020-04-20;Hospitalised;60+;Nordjylland; 0; 71; 12
+2020-04-20;Hospitalised;0-59;Midtjylland; 2; 87;  7
+2020-04-20;Hospitalised;60+;Midtjylland; 1;154; 38
+2020-04-20;Hospitalised;0-59;Syddanmark; 1; 73;  4
+2020-04-20;Hospitalised;60+;Syddanmark; 1;135; 26
+2020-04-20;Hospitalised;0-59;Hovedstaden; 4;270; 40
+2020-04-20;Hospitalised;60+;Hovedstaden;12;599;114
+2020-04-20;Hospitalised;0-59;Zealand; 0;104; 11
+2020-04-20;Hospitalised;60+;Zealand; 4;213; 46
+2020-04-20;Hospitalised;0-59;Nordjylland; 0; 27;  5
+2020-04-21;Hospitalised;0-59;Nordjylland; 0; 27;  4
+2020-04-21;Hospitalised;60+;Nordjylland; 0; 71; 11
+2020-04-21;Hospitalised;0-59;Midtjylland; 1; 88;  6
+2020-04-21;Hospitalised;60+;Midtjylland; 3;157; 41
+2020-04-21;Hospitalised;60+;Syddanmark; 2;137; 24
+2020-04-21;Hospitalised;0-59;Hovedstaden; 3;273; 38
+2020-04-21;Hospitalised;60+;Hovedstaden;10;609;116
+2020-04-21;Hospitalised;0-59;Zealand; 2;106;  9
+2020-04-21;Hospitalised;60+;Zealand; 3;216; 45
+2020-04-21;Hospitalised;0-59;Syddanmark; 0; 73;  4
+2020-04-22;Hospitalised;0-59;Midtjylland; 0; 88;  5
+2020-04-22;Hospitalised;60+;Midtjylland; 2;159; 41
+2020-04-22;Hospitalised;60+;Syddanmark; 3;140; 23
+2020-04-22;Hospitalised;0-59;Hovedstaden; 3;276; 31
+2020-04-22;Hospitalised;60+;Hovedstaden; 7;616;114
+2020-04-22;Hospitalised;0-59;Zealand; 3;109; 11
+2020-04-22;Hospitalised;60+;Zealand; 2;218; 42
+2020-04-22;Hospitalised;0-59;Nordjylland; 0; 27;  4
+2020-04-22;Hospitalised;60+;Nordjylland; 0; 71; 11
+2020-04-22;Hospitalised;0-59;Syddanmark; 0; 73;  4
+2020-04-23;Hospitalised;0-59;Midtjylland; 0; 88;  4
+2020-04-23;Hospitalised;60+;Midtjylland; 4;163; 42
+2020-04-23;Hospitalised;60+;Syddanmark; 1;141; 21
+2020-04-23;Hospitalised;0-59;Hovedstaden; 3;279; 29
+2020-04-23;Hospitalised;60+;Hovedstaden; 8;624;107
+2020-04-23;Hospitalised;0-59;Zealand; 2;111; 10
+2020-04-23;Hospitalised;60+;Zealand; 3;221; 39
+2020-04-23;Hospitalised;0-59;Nordjylland; 0; 27;  4
+2020-04-23;Hospitalised;60+;Nordjylland; 0; 71; 11
+2020-04-23;Hospitalised;0-59;Syddanmark; 0; 73;  4
+2020-04-24;Hospitalised;60+;Nordjylland; 1; 72; 12
+2020-04-24;Hospitalised;60+;Midtjylland; 2;165; 40
+2020-04-24;Hospitalised;60+;Syddanmark; 1;142; 20
+2020-04-24;Hospitalised;0-59;Hovedstaden; 3;282; 29
+2020-04-24;Hospitalised;60+;Hovedstaden; 4;628;106
+2020-04-24;Hospitalised;0-59;Zealand; 1;112;  8
+2020-04-24;Hospitalised;60+;Zealand; 6;227; 42
+2020-04-24;Hospitalised;0-59;Nordjylland; 0; 27;  4
+2020-04-24;Hospitalised;0-59;Midtjylland; 0; 88;  4
+2020-04-24;Hospitalised;0-59;Syddanmark; 0; 73;  4
+2020-04-25;Hospitalised;0-59;Nordjylland; 0; 27;  3
+2020-04-25;Hospitalised;60+;Nordjylland; 1; 73; 11
+2020-04-25;Hospitalised;60+;Midtjylland; 1;166; 35
+2020-04-25;Hospitalised;0-59;Hovedstaden; 4;286; 29
+2020-04-25;Hospitalised;60+;Hovedstaden;11;639; 96
+2020-04-25;Hospitalised;0-59;Zealand; 1;113;  7
+2020-04-25;Hospitalised;60+;Zealand; 2;229; 38
+2020-04-25;Hospitalised;0-59;Midtjylland; 0; 88;  4
+2020-04-25;Hospitalised;0-59;Syddanmark; 0; 73;  4
+2020-04-25;Hospitalised;60+;Syddanmark; 0;142; 20
+2020-04-26;Hospitalised;60+;Midtjylland; 2;168; 36
+2020-04-26;Hospitalised;0-59;Syddanmark; 1; 74;  5
+2020-04-26;Hospitalised;60+;Syddanmark; 0;142; 17
+2020-04-26;Hospitalised;0-59;Hovedstaden; 6;292; 32
+2020-04-26;Hospitalised;60+;Hovedstaden;10;649; 96
+2020-04-26;Hospitalised;0-59;Zealand; 1;114;  8
+2020-04-26;Hospitalised;60+;Zealand; 2;231; 37
+2020-04-26;Hospitalised;0-59;Nordjylland; 0; 27;  3
+2020-04-26;Hospitalised;60+;Nordjylland; 0; 73; 11
+2020-04-26;Hospitalised;0-59;Midtjylland; 0; 88;  4
+2020-04-27;Hospitalised;60+;Nordjylland; 0; 73; 10
+2020-04-27;Hospitalised;60+;Midtjylland; 1;169; 36
+2020-04-27;Hospitalised;0-59;Syddanmark; 0; 74;  4
+2020-04-27;Hospitalised;60+;Syddanmark; 1;143; 18
+2020-04-27;Hospitalised;0-59;Hovedstaden; 1;293; 29
+2020-04-27;Hospitalised;60+;Hovedstaden; 5;654; 98
+2020-04-27;Hospitalised;0-59;Zealand; 4;118; 12
+2020-04-27;Hospitalised;60+;Zealand; 5;236; 39
+2020-04-27;Hospitalised;0-59;Nordjylland; 0; 27;  3
+2020-04-27;Hospitalised;0-59;Midtjylland; 0; 88;  4
+2020-04-28;Hospitalised;60+;Nordjylland; 0; 73;  9
+2020-04-28;Hospitalised;0-59;Midtjylland; 0; 88;  3
+2020-04-28;Hospitalised;60+;Midtjylland; 1;170; 32
+2020-04-28;Hospitalised;60+;Syddanmark; 1;144; 16
+2020-04-28;Hospitalised;0-59;Hovedstaden; 5;298; 31
+2020-04-28;Hospitalised;60+;Hovedstaden; 4;658; 93
+2020-04-28;Hospitalised;0-59;Zealand; 1;119; 11
+2020-04-28;Hospitalised;60+;Zealand; 0;236; 35
+2020-04-28;Hospitalised;0-59;Nordjylland; 0; 27;  3
+2020-04-28;Hospitalised;0-59;Syddanmark; 0; 74;  4
+2020-04-29;Hospitalised;60+;Nordjylland; 1; 74; 10
+2020-04-29;Hospitalised;60+;Midtjylland; 1;171; 31
+2020-04-29;Hospitalised;0-59;Syddanmark; 0; 74;  3
+2020-04-29;Hospitalised;60+;Syddanmark; 0;144; 12
+2020-04-29;Hospitalised;0-59;Hovedstaden; 1;299; 28
+2020-04-29;Hospitalised;60+;Hovedstaden; 6;664; 87
+2020-04-29;Hospitalised;0-59;Zealand; 0;119;  9
+2020-04-29;Hospitalised;60+;Zealand; 3;239; 35
+2020-04-29;Hospitalised;0-59;Nordjylland; 0; 27;  3
+2020-04-29;Hospitalised;0-59;Midtjylland; 0; 88;  3
+2020-04-30;Hospitalised;0-59;Midtjylland; 1; 89;  4
+2020-04-30;Hospitalised;60+;Midtjylland; 0;171; 27
+2020-04-30;Hospitalised;0-59;Syddanmark; 0; 74;  2
+2020-04-30;Hospitalised;60+;Syddanmark; 0;144; 11
+2020-04-30;Hospitalised;0-59;Hovedstaden; 3;302; 28
+2020-04-30;Hospitalised;60+;Hovedstaden; 7;671; 83
+2020-04-30;Hospitalised;0-59;Zealand; 0;119;  8
+2020-04-30;Hospitalised;60+;Zealand; 3;242; 35
+2020-04-30;Hospitalised;0-59;Nordjylland; 0; 27;  3
+2020-04-30;Hospitalised;60+;Nordjylland; 0; 74; 10
+2020-05-01;Hospitalised;0-59;Midtjylland; 1; 90;  5
+2020-05-01;Hospitalised;60+;Midtjylland; 0;171; 24
+2020-05-01;Hospitalised;60+;Syddanmark; 1;145; 12
+2020-05-01;Hospitalised;0-59;Hovedstaden; 2;304; 25
+2020-05-01;Hospitalised;60+;Hovedstaden; 3;674; 78
+2020-05-01;Hospitalised;0-59;Zealand; 0;119;  7
+2020-05-01;Hospitalised;60+;Zealand; 5;247; 35
+2020-05-01;Hospitalised;0-59;Nordjylland; 0; 27;  3
+2020-05-01;Hospitalised;60+;Nordjylland; 0; 74; 10
+2020-05-01;Hospitalised;0-59;Syddanmark; 0; 74;  2
+2020-05-02;Hospitalised;0-59;Midtjylland; 2; 92;  5
+2020-05-02;Hospitalised;60+;Midtjylland; 3;174; 22
+2020-05-02;Hospitalised;60+;Syddanmark; 0;145; 11
+2020-05-02;Hospitalised;0-59;Hovedstaden; 4;308; 28
+2020-05-02;Hospitalised;60+;Hovedstaden;10;684; 77
+2020-05-02;Hospitalised;0-59;Zealand; 0;119;  6
+2020-05-02;Hospitalised;60+;Zealand; 5;252; 34
+2020-05-02;Hospitalised;0-59;Nordjylland; 0; 27;  3
+2020-05-02;Hospitalised;60+;Nordjylland; 0; 74; 10
+2020-05-02;Hospitalised;0-59;Syddanmark; 0; 74;  2
+2020-05-03;Hospitalised;60+;Nordjylland; 0; 74;  9
+2020-05-03;Hospitalised;0-59;Midtjylland; 0; 92;  3
+2020-05-03;Hospitalised;0-59;Syddanmark; 0; 74;  1
+2020-05-03;Hospitalised;0-59;Hovedstaden; 1;309; 27
+2020-05-03;Hospitalised;60+;Hovedstaden; 9;693; 80
+2020-05-03;Hospitalised;0-59;Zealand; 1;120;  7
+2020-05-03;Hospitalised;60+;Zealand; 2;254; 36
+2020-05-03;Hospitalised;0-59;Nordjylland; 0; 27;  3
+2020-05-03;Hospitalised;60+;Midtjylland; 0;174; 22
+2020-05-03;Hospitalised;60+;Syddanmark; 0;145; 11
+2020-05-04;Hospitalised;0-59;Midtjylland; 1; 93;  3
+2020-05-04;Hospitalised;60+;Midtjylland; 2;176; 22
+2020-05-04;Hospitalised;0-59;Hovedstaden; 2;311; 27
+2020-05-04;Hospitalised;60+;Hovedstaden; 5;698; 81
+2020-05-04;Hospitalised;0-59;Zealand; 1;121;  8
+2020-05-04;Hospitalised;60+;Zealand; 2;256; 35
+2020-05-04;Hospitalised;0-59;Nordjylland; 0; 27;  3
+2020-05-04;Hospitalised;60+;Nordjylland; 0; 74;  9
+2020-05-04;Hospitalised;0-59;Syddanmark; 0; 74;  1
+2020-05-04;Hospitalised;60+;Syddanmark; 0;145; 11
+2020-05-05;Hospitalised;60+;Nordjylland; 0; 74;  8
+2020-05-05;Hospitalised;0-59;Midtjylland; 0; 93;  2
+2020-05-05;Hospitalised;60+;Midtjylland; 0;176; 21
+2020-05-05;Hospitalised;60+;Syddanmark; 0;145; 10
+2020-05-05;Hospitalised;0-59;Hovedstaden; 1;312; 27
+2020-05-05;Hospitalised;60+;Hovedstaden; 4;702; 74
+2020-05-05;Hospitalised;0-59;Zealand; 1;122;  8
+2020-05-05;Hospitalised;60+;Zealand; 4;260; 35
+2020-05-05;Hospitalised;0-59;Nordjylland; 0; 27;  3
+2020-05-05;Hospitalised;0-59;Syddanmark; 0; 74;  1
+2020-05-06;Hospitalised;60+;Nordjylland; 0; 74;  7
+2020-05-06;Hospitalised;0-59;Midtjylland; 0; 93;  1
+2020-05-06;Hospitalised;60+;Midtjylland; 0;176; 19
+2020-05-06;Hospitalised;60+;Syddanmark; 0;145;  9
+2020-05-06;Hospitalised;0-59;Hovedstaden; 4;316; 29
+2020-05-06;Hospitalised;60+;Hovedstaden; 2;704; 69
+2020-05-06;Hospitalised;60+;Zealand; 1;261; 30
+2020-05-06;Hospitalised;0-59;Nordjylland; 0; 27;  3
+2020-05-06;Hospitalised;0-59;Syddanmark; 0; 74;  1
+2020-05-06;Hospitalised;0-59;Zealand; 0;122;  8
+2020-05-07;Hospitalised;60+;Midtjylland; 1;177; 18
+2020-05-07;Hospitalised;60+;Syddanmark; 0;145;  8
+2020-05-07;Hospitalised;0-59;Hovedstaden; 5;321; 29
+2020-05-07;Hospitalised;60+;Hovedstaden; 5;709; 69
+2020-05-07;Hospitalised;0-59;Zealand; 0;122;  6
+2020-05-07;Hospitalised;60+;Zealand; 4;265; 31
+2020-05-07;Hospitalised;0-59;Nordjylland; 0; 27;  3
+2020-05-07;Hospitalised;60+;Nordjylland; 0; 74;  7
+2020-05-07;Hospitalised;0-59;Midtjylland; 0; 93;  1
+2020-05-07;Hospitalised;0-59;Syddanmark; 0; 74;  1
+2020-05-08;Hospitalised;60+;Nordjylland; 0; 74;  6
+2020-05-08;Hospitalised;60+;Midtjylland; 0;177; 17
+2020-05-08;Hospitalised;0-59;Syddanmark; 1; 75;  2
+2020-05-08;Hospitalised;0-59;Hovedstaden; 1;322; 27
+2020-05-08;Hospitalised;60+;Hovedstaden; 5;714; 67
+2020-05-08;Hospitalised;0-59;Zealand; 2;124;  8
+2020-05-08;Hospitalised;60+;Zealand; 0;265; 29
+2020-05-08;Hospitalised;0-59;Nordjylland; 0; 27;  3
+2020-05-08;Hospitalised;0-59;Midtjylland; 0; 93;  1
+2020-05-08;Hospitalised;60+;Syddanmark; 0;145;  8
+2020-05-09;Hospitalised;0-59;Midtjylland; 2; 95;  3
+2020-05-09;Hospitalised;60+;Midtjylland; 0;177; 15
+2020-05-09;Hospitalised;60+;Syddanmark; 0;145;  6
+2020-05-09;Hospitalised;0-59;Hovedstaden; 1;323; 26
+2020-05-09;Hospitalised;60+;Hovedstaden; 2;716; 61
+2020-05-09;Hospitalised;0-59;Zealand; 1;125;  9
+2020-05-09;Hospitalised;60+;Zealand; 2;267; 27
+2020-05-09;Hospitalised;0-59;Nordjylland; 0; 27;  3
+2020-05-09;Hospitalised;60+;Nordjylland; 0; 74;  6
+2020-05-09;Hospitalised;0-59;Syddanmark; 0; 75;  2
+2020-05-10;Hospitalised;60+;Midtjylland; 0;177; 12
+2020-05-10;Hospitalised;0-59;Hovedstaden; 0;323; 25
+2020-05-10;Hospitalised;60+;Hovedstaden; 4;720; 61
+2020-05-10;Hospitalised;0-59;Zealand; 0;125;  8
+2020-05-10;Hospitalised;60+;Zealand; 2;269; 27
+2020-05-10;Hospitalised;0-59;Nordjylland; 0; 27;  3
+2020-05-10;Hospitalised;60+;Nordjylland; 0; 74;  6
+2020-05-10;Hospitalised;0-59;Midtjylland; 0; 95;  3
+2020-05-10;Hospitalised;0-59;Syddanmark; 0; 75;  2
+2020-05-10;Hospitalised;60+;Syddanmark; 0;145;  6
+2020-05-11;Hospitalised;0-59;Midtjylland; 0; 95;  2
+2020-05-11;Hospitalised;60+;Midtjylland; 0;177; 11
+2020-05-11;Hospitalised;0-59;Hovedstaden; 2;325; 26
+2020-05-11;Hospitalised;60+;Hovedstaden; 3;723; 61
+2020-05-11;Hospitalised;60+;Zealand; 0;269; 25
+2020-05-11;Hospitalised;0-59;Nordjylland; 0; 27;  3
+2020-05-11;Hospitalised;60+;Nordjylland; 0; 74;  6
+2020-05-11;Hospitalised;0-59;Syddanmark; 0; 75;  2
+2020-05-11;Hospitalised;60+;Syddanmark; 0;145;  6
+2020-05-11;Hospitalised;0-59;Zealand; 0;125;  8
+2020-05-12;Hospitalised;60+;Midtjylland; 1;178; 10
+2020-05-12;Hospitalised;0-59;Hovedstaden; 2;327; 23
+2020-05-12;Hospitalised;60+;Hovedstaden; 3;726; 53
+2020-05-12;Hospitalised;0-59;Zealand; 0;125;  7
+2020-05-12;Hospitalised;60+;Zealand; 0;269; 21
+2020-05-12;Hospitalised;0-59;Nordjylland; 0; 27;  3
+2020-05-12;Hospitalised;60+;Nordjylland; 0; 74;  6
+2020-05-12;Hospitalised;0-59;Midtjylland; 0; 95;  2
+2020-05-12;Hospitalised;0-59;Syddanmark; 0; 75;  2
+2020-05-12;Hospitalised;60+;Syddanmark; 0;145;  6
+2020-05-13;Hospitalised;0-59;Nordjylland; 0; 27;  2
+2020-05-13;Hospitalised;60+;Midtjylland; 0;178;  8
+2020-05-13;Hospitalised;0-59;Hovedstaden; 0;327; 20
+2020-05-13;Hospitalised;60+;Hovedstaden; 3;729; 48
+2020-05-13;Hospitalised;0-59;Zealand; 3;128;  9
+2020-05-13;Hospitalised;60+;Zealand; 0;269; 20
+2020-05-13;Hospitalised;60+;Nordjylland; 0; 74;  6
+2020-05-13;Hospitalised;0-59;Midtjylland; 0; 95;  2
+2020-05-13;Hospitalised;0-59;Syddanmark; 0; 75;  2
+2020-05-13;Hospitalised;60+;Syddanmark; 0;145;  6
+2020-05-14;Hospitalised;0-59;Nordjylland; 0; 27;  1
+2020-05-14;Hospitalised;60+;Midtjylland; 0;178;  7
+2020-05-14;Hospitalised;0-59;Syddanmark; 1; 76;  3
+2020-05-14;Hospitalised;60+;Syddanmark; 2;147;  8
+2020-05-14;Hospitalised;0-59;Hovedstaden; 5;332; 20
+2020-05-14;Hospitalised;60+;Hovedstaden; 4;733; 45
+2020-05-14;Hospitalised;0-59;Zealand; 0;128;  8
+2020-05-14;Hospitalised;60+;Zealand; 1;270; 20
+2020-05-14;Hospitalised;60+;Nordjylland; 0; 74;  6
+2020-05-14;Hospitalised;0-59;Midtjylland; 0; 95;  2
+2020-05-15;Hospitalised;0-59;Midtjylland; 0; 95;  1
+2020-05-15;Hospitalised;60+;Midtjylland; 0;178;  6
+2020-05-15;Hospitalised;0-59;Syddanmark; 2; 78;  5
+2020-05-15;Hospitalised;60+;Syddanmark; 2;149; 10
+2020-05-15;Hospitalised;0-59;Hovedstaden; 1;333; 19
+2020-05-15;Hospitalised;60+;Hovedstaden; 3;736; 44
+2020-05-15;Hospitalised;0-59;Zealand; 0;128;  7
+2020-05-15;Hospitalised;60+;Zealand; 3;273; 20
+2020-05-15;Hospitalised;0-59;Nordjylland; 0; 27;  1
+2020-05-15;Hospitalised;60+;Nordjylland; 0; 74;  6
+2020-05-16;Hospitalised;60+;Midtjylland; 1;179;  6
+2020-05-16;Hospitalised;60+;Syddanmark; 1;150;  8
+2020-05-16;Hospitalised;0-59;Hovedstaden; 1;334; 15
+2020-05-16;Hospitalised;60+;Hovedstaden; 0;736; 39
+2020-05-16;Hospitalised;0-59;Zealand; 0;128;  6
+2020-05-16;Hospitalised;60+;Zealand; 0;273; 17
+2020-05-16;Hospitalised;0-59;Nordjylland; 0; 27;  1
+2020-05-16;Hospitalised;60+;Nordjylland; 0; 74;  6
+2020-05-16;Hospitalised;0-59;Midtjylland; 0; 95;  1
+2020-05-16;Hospitalised;0-59;Syddanmark; 0; 78;  5
